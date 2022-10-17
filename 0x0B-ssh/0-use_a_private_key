@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Connects to server 44.192.23.30 with key in ~/.ssh/omotayo
+
+ssh -i ~/.ssh/omotayo ubuntu@44.192.23.30
