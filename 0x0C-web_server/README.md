@@ -1,4 +1,4 @@
-# Resources
+## Resources
 #### Read or watch:
 
 - How the web works
